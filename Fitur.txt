@@ -1,0 +1,8 @@
+Fitur Mantine Landing Page
+Framework	: Mantine
+Styling 	: Tailwind
+
+Fitur		:
+1) Navigation saya gunakan untuk mendirect section berdasarkan id section, hal ini di karenakan tampilan yang saya buat, langkah ini saya ambil agar user tidak perlu klik tombol kembali jika ingin ke tampilan utama.
+2) Pada about terdapat block-font yang saya asumsikan sebagai hal yang paling menjual dari sebuah perusahaan.
+3) Pada section pricing saya membuat sebuah fitur agar user dapat memilih apakah ingin membuat kerja sama dalam waktu perbulan atau pertahun. hal ini saya ambil agar user lebih fleksibel dalam menentukan kerja sama.

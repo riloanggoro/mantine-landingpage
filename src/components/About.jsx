@@ -67,8 +67,8 @@ export function About() {
         <div className={classes.inner}>
           <div className={classes.content}>
             <Title className={classes.title}>
-              Pembuatan laporan <span className={classes.highlight}>Pendapatan</span> kini <br />{' '}
-              lebih mudah
+              Pembuatan <span className={classes.highlight}>Laporan</span> pendapatan kini lebih
+              mudah <br />{' '}
             </Title>
             <Text className="pt-5" color="dimmed">
               Bangun aplikasi pelaporan berbasis web yang dapat diakses dengan fungsi penuh lebih
